@@ -59,5 +59,5 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanad-baran-biswas-a73450231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in" height="30" width="40" /></a>
 
