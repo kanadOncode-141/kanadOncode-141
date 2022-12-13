@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning *MERN Frame Work*
 
-- 🚀 I have learned of CSS library like Chakra UI
+- 🚀 I have learned of CSS library and learing Chakra UI
 
 - 👬 I’m looking to collaborate on *Open Source Projects*
 
