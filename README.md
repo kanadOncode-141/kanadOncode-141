@@ -55,7 +55,7 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 
 ![](https://activity-graph.herokuapp.com/graph?username=kanadOncode-141&theme=react-dark&hide_border=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanadoncode-141" alt="kanadoncode-141" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanadoncode-141&theme=darkhub" alt="kanadoncode-141" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
