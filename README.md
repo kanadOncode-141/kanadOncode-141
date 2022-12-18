@@ -22,7 +22,7 @@
 
 - 👬 I’m looking to collaborate on *Open Source Projects*
 
-- 💬 Have a look at my [portfolio](https://kanadoncode-141.github.io/) and [resume](https://drive.google.com/file/d/1GDvLAIaSzFmkE29-aZVCb6cHrY6Cs6aT/view?usp=sharing)
+- 💬 Have a look at my [portfolio](https://kanadoncode-141.github.io/) and [resume](https://drive.google.com/file/d/12mXcQPMNP9ClPjTaRQ9IjdQ272icfZAN/view?usp=sharing)
 
 - 📫 How to reach me *kanad93cod@gmail.com*
 
